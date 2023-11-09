@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 12000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 120,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 10883,
+      "checked": false
+    },
+    {
+      "name": "Rail",
+      "price": "1200",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "Bouteille",
+      "price": "109990",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "Bouteille",
+      "price": "109990",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "Bouteille",
+      "price": "109990",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "Bouteille",
+      "price": "121233",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Bouteille",
+      "price": "121233",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "Bouteille",
+      "price": "121233",
+      "checked": true,
+      "id": 10
+    }
+  ]
+}
